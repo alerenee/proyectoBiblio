@@ -1,0 +1,10 @@
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.exe.config
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.exe
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.pdb
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csprojAssemblyReference.cache
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.Login.resources
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.Properties.Resources.resources
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.GenerateResource.cache
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.exe
+C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.pdb
