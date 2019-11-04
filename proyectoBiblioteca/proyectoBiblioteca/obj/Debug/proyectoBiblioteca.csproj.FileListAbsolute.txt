@@ -8,3 +8,18 @@ C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYEC
 C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.CoreCompileInputs.cache
 C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.exe
 C:\Users\alere\Desktop\ITCA\INGENIERIA\CICLO II\PROGRAMACION ESTRUCTURADA\PROYECTO\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.pdb
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csprojAssemblyReference.cache
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.frmPrincipal.resources
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.Login.resources
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.Properties.Resources.resources
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.GenerateResource.cache
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.CoreCompileInputs.cache
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.exe
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.pdb
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.exe.config
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.exe
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\proyectoBiblioteca.pdb
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\Clases.dll
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\Clases.pdb
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\bin\Debug\Clases.dll.config
+E:\Proyectos\alerenee\proyectoBiblio\proyectoBiblioteca\proyectoBiblioteca\obj\Debug\proyectoBiblioteca.csproj.CopyComplete

@@ -98,6 +98,7 @@
             this.btnIniciar.TabIndex = 5;
             this.btnIniciar.Text = "INICIAR";
             this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.Click += new System.EventHandler(this.BtnIniciar_Click);
             // 
             // btnSalir
             // 
@@ -135,7 +136,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(461, 489);
+            this.ClientSize = new System.Drawing.Size(457, 485);
             this.ControlBox = false;
             this.Controls.Add(this.pbxLogo);
             this.Controls.Add(this.lblTituloBajo);

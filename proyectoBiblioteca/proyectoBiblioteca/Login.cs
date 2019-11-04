@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Clases;
 
 namespace proyectoBiblioteca
 {
@@ -15,6 +16,20 @@ namespace proyectoBiblioteca
         public Login()
         {
             InitializeComponent();
+        }
+
+        string username;
+        string pass;
+        Usuario user = new Usuario();
+
+        private void BtnIniciar_Click(object sender, EventArgs e)
+        {
+            username = txtUsuario.Text;
+            pass = txtPass.Text;
+            if(user.Login(username, pass))
+            {
+                MessageBox.Show("Se ha logueado correctamente");
+            }
         }
     }
 }

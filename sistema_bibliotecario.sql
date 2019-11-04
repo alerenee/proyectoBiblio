@@ -13,6 +13,7 @@ create table roles(
 create table users(
 	id int identity(1,1) primary key,
 	name varchar(150),
+	pass varchar(100) not null,
 	birthday date null,
 	id_rol int,
 	email varchar(100) unique,
@@ -182,11 +183,11 @@ insert into roles(name, description, created_at, updated_at) values('client','us
 /**************************************************************************************************************************************/
 
 /*REVISAR ANTES NO SE QUE PEDO XD*/
-insert into users(name,id_rol,email,phone,carnet,created_at,updated_at) values('benjamin ramirez',1,'benjamin.ramirez17@itca.edu.sv','7458-5845','AD-000000001','2019-10-31 07:44:17','2019-10-31 07:44:17');
-insert into users(name,id_rol,email,phone,carnet,created_at,updated_at) values('alejandra rene',1,'alejandra.rene17@itca.edu.sv','7458-5846','AD-000000002','2019-10-31 07:44:17','2019-10-31 07:44:17');
-insert into users(name,id_rol,email,phone,carnet,created_at,updated_at) values('josue amaya',1,'josue.amaya17@itca.edu.sv','7458-5847','AD-000000003','2019-10-31 07:44:17','2019-10-31 07:44:17');
-insert into users(name,id_rol,email,phone,carnet,created_at,updated_at) values('karla ferrer',2,'karla.ferrer@itca.edu.sv','7458-5848','US-000000004','2019-10-31 07:44:17','2019-10-31 07:44:17');
-insert into users(name,id_rol,email,phone,carnet,created_at,updated_at) values('elvis martinez',3,'elvis.martinez@itca.edu.sv','7458-5849','CL-000000005','2019-10-31 07:44:17','2019-10-31 07:44:17');
+insert into users(name,id_rol,email,pass,phone,carnet,created_at,updated_at) values('benjamin ramirez',1,'benjamin.ramirez17@itca.edu.sv','123','7458-5845','AD-000000001','2019-10-31 07:44:17','2019-10-31 07:44:17');
+insert into users(name,id_rol,email,pass,phone,carnet,created_at,updated_at) values('alejandra rene',1,'alejandra.rene17@itca.edu.sv','123','7458-5846','AD-000000002','2019-10-31 07:44:17','2019-10-31 07:44:17');
+insert into users(name,id_rol,email,pass,phone,carnet,created_at,updated_at) values('josue amaya',1,'josue.amaya17@itca.edu.sv','123','7458-5847','AD-000000003','2019-10-31 07:44:17','2019-10-31 07:44:17');
+insert into users(name,id_rol,email,pass,phone,carnet,created_at,updated_at) values('karla ferrer',2,'karla.ferrer@itca.edu.sv','123','7458-5848','US-000000004','2019-10-31 07:44:17','2019-10-31 07:44:17');
+insert into users(name,id_rol,email,pass,phone,carnet,created_at,updated_at) values('elvis martinez',3,'elvis.martinez@itca.edu.sv','123','7458-5849','CL-000000005','2019-10-31 07:44:17','2019-10-31 07:44:17');
 
 
 /************************************************************************************************************************************/
