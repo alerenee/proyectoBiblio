@@ -16,5 +16,10 @@ namespace proyectoBiblioteca
         {
             InitializeComponent();
         }
+
+        private void LibrosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
