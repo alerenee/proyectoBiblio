@@ -21,5 +21,10 @@ namespace proyectoBiblioteca
         {
 
         }
+
+        private void LibrosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
